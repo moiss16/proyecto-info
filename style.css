@@ -17,7 +17,6 @@ body{
     height: 60px;
     background-color: white; 
     float: left;
-    
 
 }
 
@@ -45,20 +44,21 @@ nav ul li a{
 nav ul li ul{
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 0px 0px 6px 6px;
     margin: 0ch;
-    padding: 10px;
+    padding: none;
 }
 nav ul li:hover ul{
     display: block;
 }
-nav ul li ul li a{
+nav ul li ul li {
+    width: 180px;
     
-    padding: 17px 14px;
 }
 nav ul li ul li :hover{
     background-color: rgb(50, 50, 65);
+    background-size: cover;
 }
 
 nav p{
