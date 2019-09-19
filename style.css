@@ -1,9 +1,63 @@
 body{
-    background-image: url("imagenes/Sin\ título.png");
+    background-image: url("imagenes/Sin título.png");
     background-size: 100%;
+    background-color: #e5e5e5;
+    margin: 0ch;
+    padding: 0ch;
+
 }
 .bar-menu{
-    text-align: center;
-    font-size: 20px;
+    font-size: 60px;
+    width: 100%;
+    height: 60px;
+    background-color: white; 
+    float: left;
 
+}
+
+
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+
+}
+nav ul li{
+    float: left;
+    list-style-type: none;
+    position: relative;
+}
+nav ul li a{
+    font-size: 24px;
+    padding: 17px 14px;
+    display: block;
+    color: black;
+    text-decoration: none;
+
+}
+nav ul li ul{
+    display: none;
+    position: absolute;
+    background-color: white;
+    border-radius: 0px 0px 6px 6px;
+ 
+    padding: 0%;
+}
+nav ul li:hover ul{
+    display: block;
+}
+nav ul li ul li{
+
+}
+nav ul li ul li :hover{
+    background-color: blue;
+}
+
+nav p{
+    float: left;
+    font-size: 22px;
+    line-height: 45px;
+    padding: 10px 25px;
+    margin: 0px;
+    
 }
