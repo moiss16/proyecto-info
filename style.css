@@ -1,17 +1,23 @@
 body{
-    background-image: url("imagenes/Sin título.png");
+    background-image: url("");
     background-size: 100%;
     background-color: #e5e5e5;
     margin: 0ch;
     padding: 0ch;
 
 }
-.bar-menu{
+.acerca-home{
+    font-size: 10px;
+    width: 100%;
+    height: 60px;
+}
+.home-menu{
     font-size: 60px;
     width: 100%;
     height: 60px;
     background-color: white; 
     float: left;
+    
 
 }
 
@@ -46,9 +52,6 @@ nav ul li ul{
 nav ul li:hover ul{
     display: block;
 }
-nav ul li ul li{
-
-}
 nav ul li ul li :hover{
     background-color: blue;
 }
@@ -59,5 +62,4 @@ nav p{
     line-height: 45px;
     padding: 10px 25px;
     margin: 0px;
-    
 }
