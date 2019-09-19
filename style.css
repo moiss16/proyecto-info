@@ -1,3 +1,4 @@
+
 body{
     background-image: url("");
     background-size: 100%;
@@ -31,6 +32,10 @@ nav ul li{
     float: left;
     list-style-type: none;
     position: relative;
+}
+nav ul li :hover{
+    background-color: rgb(50, 50, 65);
+    background-size: cover;
 }
 nav ul li a{
     font-size: 24px;
@@ -66,4 +71,8 @@ nav p{
     line-height: 45px;
     padding: 10px 25px;
     margin: 0px;
+}
+nav img{
+    height: 50px;
+    width: 70px;
 }
