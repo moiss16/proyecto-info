@@ -1,0 +1,42 @@
+
+h1{
+    text-align: center;
+}
+
+.que-es{
+    font-size: 22px;
+    position: relative;
+    left: 0px;
+    border: 4px;
+    color: aliceblue;
+    text-align: center;
+    text-align: justify;
+    padding: 5px 25px 20px 25px;
+    font-size: 18px;
+}
+
+.container{
+    background-color: black;
+    height: 520px;
+    width: 655px;
+    position: absolute;
+    margin: auto;
+    left: 8%;
+    border-radius: 10px;
+    top: 18%;
+}
+.container2{
+    background-color: black;
+    height: 320px;
+    width: 430px;
+    position: absolute;
+    margin: auto;
+    right: 50px;
+    border-radius: 10px;
+}
+
+.html5 {
+    position: absolute;
+    width: 400px;
+    right: 10px;
+}
