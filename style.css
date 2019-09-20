@@ -16,6 +16,32 @@ body{
 .encabezado-xilofono{
     text-align: center;
 }
+.intro-title{
+    text-align: center;
+}
+.main-parrafo{
+    position: relative;
+    text-align: justify;
+    font-size: 18px;
+    bottom: 300px;
+    color: white;
+    padding: 5px 25px 20px 25px;
+}
+.gif-home{
+    position: relative;
+    right: 550px;
+    bottom: 70px;  
+}
+.main-info{
+    background-color: black;
+    text-align: center;
+    z-index:-1;
+    height: 300px;
+    width: 800px;
+    position: relative;
+    margin: auto;
+    border-radius: 10px;
+}
 .titulo-html{
     text-align: center;
 }
@@ -34,9 +60,7 @@ body{
     text-align: center;
     
 }
-.main-info{
-    font-size: 25px;
-}
+
 .home-menu{
     font-size: 60px;
     width: 100%;
@@ -108,5 +132,5 @@ nav p{
 }
 .img-home{
     height: 50px;
-    width: 70px;
+    width: 100px;
 }

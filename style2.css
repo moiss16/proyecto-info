@@ -109,7 +109,8 @@ nav p{
     padding: 10px 25px;
     margin: 0px;
 }
-nav img{
+.img-home{
     height: 50px;
-    width: 70px;
+    width: 100px;
 }
+
