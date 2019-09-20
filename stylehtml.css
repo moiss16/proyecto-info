@@ -23,7 +23,7 @@ h1{
 .container{
     z-index:-1;
     background-color: black;
-    height: 520px;
+    height: 460px;
     width: 655px;
     position: absolute;
     margin: auto;
