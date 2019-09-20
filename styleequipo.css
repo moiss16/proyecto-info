@@ -6,6 +6,7 @@
     left: 580px;
 }
 .mois{
+    z-index: -1;
     position: absolute;
     height: 300px;
     width: 300px;
