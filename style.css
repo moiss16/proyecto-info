@@ -38,7 +38,7 @@ body{
 }
 .derechos footer{
     text-align: left;
-    position: absolute;
+    position: relative;
     bottom: 0;
     left:0;
 }
