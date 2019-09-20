@@ -40,3 +40,22 @@ h1{
     width: 400px;
     right: 10px;
 }
+
+.container3{
+    background-color: black;
+    height: 80px;
+    width: 450px;
+    position: absolute;
+    margin: auto;
+    right: 50px;
+    border-radius: 50px;
+    bottom: 80px;
+}
+
+.marimba{ 
+    height: 80px;
+    width: 430px;
+    position: absolute;    
+    right: 10px;
+    bottom: 13px;
+}
