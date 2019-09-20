@@ -1,6 +1,11 @@
 
 h1{
     text-align: center;
+    font-size: 35px;
+    position: absolute;
+    top: 6%;
+    right: 42%;
+    font-style: italic;
 }
 
 .que-es{
@@ -16,6 +21,7 @@ h1{
 }
 
 .container{
+    z-index:-1;
     background-color: black;
     height: 520px;
     width: 655px;
@@ -30,7 +36,7 @@ h1{
     height: 320px;
     width: 430px;
     position: absolute;
-    margin: auto;
+    top: 18%;
     right: 50px;
     border-radius: 10px;
 }
