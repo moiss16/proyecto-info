@@ -108,7 +108,7 @@ nav img{
 }
 .derechos footer{
     text-align: left;
-    position: relative;
+    position: absolute;
     bottom: 0;
-    left:0
+    left:0;
 }
