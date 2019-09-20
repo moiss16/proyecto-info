@@ -1,0 +1,67 @@
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    position: absolute;
+    top: 6%;
+    right: 42%;
+    font-style: italic;
+}
+
+.que-es{
+    font-size: 22px;
+    position: relative;
+    left: 0px;
+    border: 4px;
+    color: aliceblue;
+    text-align: center;
+    text-align: justify;
+    padding: 5px 25px 20px 25px;
+    font-size: 18px;
+}
+
+.container{
+    z-index:-1;
+    background-color: black;
+    height: 460px;
+    width: 655px;
+    position: absolute;
+    margin: auto;
+    left: 8%;
+    border-radius: 10px;
+    top: 18%;
+}
+.container2{
+    background-color: black;
+    height: 320px;
+    width: 430px;
+    position: absolute;
+    top: 18%;
+    right: 50px;
+    border-radius: 10px;
+}
+
+.html5 {
+    position: absolute;
+    width: 400px;
+    right: 10px;
+}
+
+.container3{
+    background-color: black;
+    height: 80px;
+    width: 450px;
+    position: absolute;
+    margin: auto;
+    right: 50px;
+    border-radius: 50px;
+    bottom: 50px;
+}
+
+.marimba{ 
+    height: 80px;
+    width: 430px;
+    position: absolute;    
+    right: 10px;
+    bottom: 13px;
+}

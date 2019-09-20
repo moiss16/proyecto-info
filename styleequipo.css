@@ -1,0 +1,188 @@
+.encabezado-equipo{
+    position: absolute;
+    font-size: 30px;
+    font-style: italic;
+    top: 50px;
+    left: 580px;
+}
+.mois{
+    z-index: -1;
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 130px;
+    left: 80px;
+    border-radius: 50%;
+}
+.moises .nombre{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 180px;
+    top: 455px;
+}
+.moises .instagram{
+    position: absolute;
+    font-style: italic;
+    left: 200px;
+    top: 480px;
+    font-size: 20px;
+}
+.insta{
+    position: absolute;
+    height: 55px;
+    left: 120px;
+    top: 475px;
+}
+.gerafoto{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 480px;
+    top: 130px;
+    border-radius: 50%;
+}
+.nombreg{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 580px;
+    top: 455px;
+}
+.instagramg{
+    position: absolute;
+    height: 55px;
+    left: 590px;
+    top: 485px;
+    font-size: 20px;
+
+}
+.instag{
+    position: absolute;
+    height: 55px;
+    left: 520px;
+    top: 475px;
+}
+.franfoto{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 880px;
+    top: 130px;
+    border-radius: 50%;
+}
+
+.nombref{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 980px;
+    top: 455px;
+}
+.instagramf{
+    font-size: 20px;
+
+    position: absolute;
+    height: 55px;
+    left: 973px;
+    top: 485px;
+}
+.instaf{
+    position: absolute;
+    height: 55px;
+    left: 900px;
+    top: 475px;
+}
+
+.martinfoto{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 240px;
+    top: 550px;
+    border-radius: 50%;
+}
+.nombrem{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 360px;
+    top: 855px;
+}
+.instagramm{
+    font-size: 20px;
+
+    position: absolute;
+    height: 55px;
+    left: 368px;
+    top: 885px;
+}
+.instam{
+    position: absolute;
+    height: 55px;
+    left: 290px;
+    top: 875px;
+}
+
+.jesusfoto {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 660px;
+    top: 550px;
+    border-radius: 50%;
+}
+
+.nombrej{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 740px;
+    top: 855px;
+}
+
+.instagramj {
+    font-size: 20px;
+
+    position: absolute;
+    height: 55px;
+    left: 768px;
+    top: 885px;
+}
+
+.instaj {
+    position: absolute;
+    height: 55px;
+    left: 670px;
+    top: 875px;
+}
+
+.damianfoto{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    left: 500px;
+    top: 1000px;
+    border-radius: 50%;
+}
+.nombred{
+    font-size: 20px;
+    position: absolute;
+    font-style: italic;
+    left: 580px;
+    top: 1350px;
+}
+.instagramd{
+    font-size: 20px;
+
+    position: absolute;
+    height: 55px;
+    left: 628px;
+    top: 1380px;
+}
+.instad{
+    position: absolute;
+    height: 55px;
+    left: 510px;
+    top: 1370px;
+}
