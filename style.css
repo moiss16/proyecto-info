@@ -11,20 +11,16 @@ body{
 .main-info{
     font-size: 25px;
 }
-.acerca-home{
-    position: absolute;
-    text-align: left;
-    bottom: 0;
-    left:0;
+/*.acerca-home{
 }
 .xilofono-home{
-    position: relative;
-    left: 0px;
-    top: 450px;
 }
 .xilofono-home img{
-    height: 100px;
-    width: 200px;
+}
+.acerca-home img{
+}*/
+.encabezado-equipo{
+    text-align: center;
 }
 .encabezado-acerca{
     text-align: center;
@@ -32,10 +28,7 @@ body{
 .encabezado-xilofono{
     text-align: center;
 }
-.acerca-home img{
-    height: 100px;
-    width: 200px;
-}
+
 .home-menu{
     font-size: 60px;
     width: 100%;
