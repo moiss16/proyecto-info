@@ -35,7 +35,7 @@ nav ul li{
 }
 nav ul li :hover{
     background-color: rgb(50, 50, 65);
-    background-size: cover;
+
 }
 nav ul li a{
     font-size: 24px;
@@ -58,11 +58,16 @@ nav ul li:hover ul{
 }
 nav ul li ul li {
     width: 180px;
+    background-color:  white;
     
 }
+
 nav ul li ul li :hover{
-    background-color: rgb(50, 50, 65);
-    background-size: cover;
+    background-color: rgb(50, 50, 65); 
+   
+}
+nav ul li ul li a{
+    background-color: white;
 }
 
 nav p{
