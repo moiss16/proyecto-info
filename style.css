@@ -25,6 +25,15 @@ body{
 .titulo-js{
     text-align: center;
 }
+.proyecto{
+    text-align: center;
+    font-size: 18px;
+}
+.img-container{
+    position: inherit;
+    text-align: center;
+    
+}
 .main-info{
     font-size: 25px;
 }
@@ -97,7 +106,7 @@ nav p{
     margin: 0px;
 
 }
-nav img{
+.img-home{
     height: 50px;
     width: 70px;
 }
