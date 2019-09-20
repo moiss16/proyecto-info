@@ -1,0 +1,142 @@
+h1{
+    text-align: center;
+    font-size: 35px;
+    position: absolute;
+    top: 6%;
+    right: 40%;
+    font-style: italic;
+}
+
+.que-es{
+    font-size: 22px;
+    position: relative;
+    left: 0px;
+    border: 4px;
+    color: aliceblue;
+    text-align: center;
+    text-align: justify;
+    padding: 5px 25px 20px 25px;
+    font-size: 18px;
+}
+
+.container{
+    z-index:-1;
+    background-color: black;
+    height: 65px;
+    width: 1115px;
+    position: absolute;
+    margin: auto;
+    left: 6%;
+    border-radius: 10px;
+    top: 18%;
+}
+.container .que-es{
+    text-align: center;
+    position: relative;
+    bottom: 15px;
+}
+.containerhtml{
+    z-index:-1;
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 390px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    border-radius: 10px;
+}
+.containerhtml p{
+    left: 15px;
+    bottom: 6px;
+    position: relative;
+
+}
+.containerjava{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 450px;
+    position: absolute;
+    top: 290px;
+    left: 500px;
+    border-radius: 10px;
+}
+.containerjava p{
+    left: 15px;
+    bottom: 6px;
+    position: relative;
+}
+.containercss{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 480px;
+    position: absolute;
+    top: 245px;
+    left: 300px;
+    border-radius: 10px;
+}
+.containercss p{
+    left: 15px;
+    bottom: 6px;
+    position: relative;
+}
+.container2 p{
+    position: relative;
+    left: 20px;
+    bottom: 5px;
+    font-size: 22px;
+    font-style: italic;
+    text-align: justify;
+    width: 600px;
+}
+.container2 ul{
+    position: relative;
+    bottom: 10px;
+
+}
+.container2{
+    background-color: black;
+    color: white;
+    height: 240px;
+    width: 655px;
+    position: absolute;
+    top: 335px;
+    left: 6%;
+    border-radius: 10px;
+}
+
+
+.container3{
+    background-color: black;
+    height: 80px;
+    width: 550px;
+    position: absolute;
+    margin: auto;
+    left: 75px;
+    border-radius: 50px;
+    bottom: 10px;
+}
+
+.marimba{ 
+    height: 80px;
+    width: 530px;
+    position: absolute;    
+    right: 10px;
+    bottom: 13px;
+}
+
+.imagencss{
+    position: absolute;
+    width: 180px;
+    left: 1000px;
+    top: 220px;
+}
+
+.tutorial{
+    position:relative;
+    
+    left: 760px;
+    top: 390px;
+}
