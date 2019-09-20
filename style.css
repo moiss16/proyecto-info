@@ -5,13 +5,30 @@ body{
     background-color: #e5e5e5;
     margin: 0ch;
     padding: 0ch;
-    overflow: hidden;
-}
 
+}
+.main-info{
+    font-size: 25px;
+}
 .acerca-home{
     position: relative;
     left: 0px;
     top: 450px;
+}
+.xilofono-home{
+    position: relative;
+    left: 0px;
+    top: 450px;
+}
+.xilofono-home img{
+    height: 100px;
+    width: 200px;
+}
+.encabezado-acerca{
+    text-align: center;
+}
+.encabezado-xilofono{
+    text-align: center;
 }
 .acerca-home img{
     height: 100px;
@@ -23,10 +40,7 @@ body{
     height: 60px;
     background-color: white; 
     float: left;
-
 }
-
-
 nav ul{
     list-style-type: none;
     padding: 0px;
@@ -77,4 +91,10 @@ nav p{
 nav img{
     height: 50px;
     width: 70px;
+}
+.derechos footer{
+    text-align: left;
+    position: relative;
+    bottom: 0;
+    left:0
 }
