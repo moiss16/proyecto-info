@@ -1,5 +1,8 @@
 body{
     overflow: hidden;
     background-image: url("gifs/tenor.gif");
-    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
 }
