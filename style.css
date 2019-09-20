@@ -41,6 +41,14 @@ body{
     text-align: center;
     font-family: sans-serif;
 }
+.proyecto{
+    text-align: center;
+    font-size: 18px;
+}
+.img-container{
+    position: inherit;
+    text-align: center;
+}
 .main-info{
     
     background-color: black;
