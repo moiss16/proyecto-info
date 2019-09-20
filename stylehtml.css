@@ -1,7 +1,7 @@
 body{
-
+    position: static;
+    overflow-y: scroll;
 }
-
 h1{
     text-align: center;
 }
@@ -26,6 +26,7 @@ h1{
     margin: auto;
     left: 8%;
     border-radius: 10px;
+    top: 18%;
 }
 .container2{
     background-color: black;
@@ -33,12 +34,12 @@ h1{
     width: 430px;
     position: absolute;
     margin: auto;
-    right: 100px;
+    right: 50px;
     border-radius: 10px;
 }
 
 .html5 {
-    
+    position: absolute;
     width: 400px;
-    right: 500px;
+    right: 10px;
 }
